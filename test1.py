@@ -7,7 +7,7 @@ print("O-CODE1")
 print("C-CODE1")
 print("C-CODE1")
 print("O-CODE1")
-print("O-CODE1")
+print("O-COD1")
 
 print("O-CODE1")
 print("O-ODE1")
